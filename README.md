@@ -24,7 +24,7 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 ![Vista principal](https://i.postimg.cc/BbKGF22z/light-home.png)
 
 ### 📄 Publicación Individual
-![Publicación](https://i.postimg.cc/SRjBhCZs/post-new.png)
+![Publicación](https://i.postimg.cc/cLm66Nxn/light-post.png)
 
 ---
 
