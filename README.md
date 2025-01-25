@@ -1,4 +1,4 @@
-# Rinkyn Codes Blog Demo- Sitio Web Básico - Estilo Blog - Creado Con HTML Y CSS 🌐
+# Rinkyn Codes - Blog Demo - Sitio Web Básico - Estilo Blog - Creado Con HTML Y CSS 🌐
 
 Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con **HTML** y **CSS**. El objetivo principal es aprender y practicar las bases de desarrollo web sin el uso de frameworks o librerías adicionales.
 
