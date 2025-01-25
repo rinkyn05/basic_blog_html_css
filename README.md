@@ -21,7 +21,7 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 <a href="https://rinkyn05.github.io/basic_blog_html_css/" target="_blank">Haz clic aquí para ver el demo en vivo</a>
 
 ### 📄 Página Principal
-![Vista principal](https://i.postimg.cc/MZFkY3Tj/inicio-new.png)
+![Vista principal](https://i.postimg.cc/BbKGF22z/light-home.png)
 
 ### 📄 Publicación Individual
 ![Publicación](https://i.postimg.cc/SRjBhCZs/post-new.png)
