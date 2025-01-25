@@ -17,7 +17,7 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 ## 🖼️ Vista Previa
 
 ### 📌 Página Principal
-![Vista principal](https://i.postimg.cc/02hg2Kx9/inicio.png)
+![Vista principal](https://i.postimg.cc/X7zzWMWV/home.png)
 
 ### 📌 Publicación Individual
 ![Publicación](https://i.postimg.cc/YqQNhjm1/post.png)
