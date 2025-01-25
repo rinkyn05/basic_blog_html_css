@@ -22,8 +22,6 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 ### 📌 Publicación Individual
 ![Publicación](https://i.postimg.cc/YqQNhjm1/post.png)
 
-### 📌 Sidebar
-![Sidebar](https://via.placeholder.com/600x400.png?text=Vista+del+Sidebar)
 
 ---
 
@@ -31,4 +29,4 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 
 1. **Clonar el Repositorio**
    ```bash
-   git clone https://github.com/tu-usuario/sitio-web-basico-blog.git
+   git clone https://github.com/rinkyn05/basic_blog_html_css
