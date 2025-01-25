@@ -18,7 +18,7 @@ Este es un proyecto sencillo de un sitio web estilo blog, creado únicamente con
 ## 🖼️ Vista Previa
 
 ### 📌 Demo en Vivo
-[Haz clic aquí para ver el demo en vivo](https://rinkyn05.github.io/basic_blog_html_css/)
+<a href="https://rinkyn05.github.io/basic_blog_html_css/" target="_blank">Haz clic aquí para ver el demo en vivo</a>
 
 ### 📄 Página Principal
 ![Vista principal](https://i.postimg.cc/X7zzWMWV/home.png)
